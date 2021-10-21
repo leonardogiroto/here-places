@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  HERE_API_MAPS: 'mEP5wL0Ecl-cAvc2_e7U7zD4y1MwqcWSQSvU8nyFewU'
 };
 
 /*
